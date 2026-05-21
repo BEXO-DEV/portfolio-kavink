@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "syncedAt": "2026-05-21T08:15:55.482081+00:00",
+  "handle": "kavink",
+  "profile": {
+    "full_name": "KAVINBALAJI S K",
+    "headline": "Results-driven Data Analyst with experience in data analysis and visualization, known for analytical thinking and problem-solving skills.",
+    "bio": "Results-driven professional with experience in data analysis and visualization. Known for strong analytical thinking and problem-solving skills, delivering key insights that drive operational improvements and enhance data quality.",
+    "avatar_url": "https://assect.mybexo.com/kavink/avatar.jpg?v=1778814790192",
+    "location": null,
+    "email": "contactkavin365@gmail.com",
+    "phone": null,
+    "website": null,
+    "linkedin_url": null,
+    "github_url": null,
+    "resume_url": "https://assets.mybexo.com/resumes/cfca7ab7-cead-44c6-829a-ad48f0d09aa0-1778806738019.pdf"
+  },
+  "projects": [
+    {
+      "id": "7c75cab6-1448-4827-acaa-db108fd33083",
+      "title": "Development of a Multivariate Regression Model for forecasting under multicollinearity.",
+      "live_url": null,
+      "image_url": null,
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "github_url": null,
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "tech_stack": [],
+      "description": ""
+    },
+    {
+      "id": "4499ce82-a4e3-4fc4-9017-23a207a44a85",
+      "title": "Velocity vs. Value: The Cost of Attention(The Doom-Scroll Paradox: Analyzing the Impact of Algorithmic Velocity on User Anxiety and Brand Recall.)",
+      "live_url": null,
+      "image_url": null,
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "github_url": null,
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "tech_stack": [],
+      "description": ""
+    },
+    {
+      "id": "e9eac836-927e-4860-887a-31c1d6491c69",
+      "title": "Nex_AI Personalized Portfolio Website For all",
+      "live_url": null,
+      "image_url": null,
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "github_url": null,
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "tech_stack": [],
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "id": "5f7355c3-2ba4-4045-8bbe-0b7c9e2f9950",
+      "name": "Data Analysis",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "9400f9cc-abfa-42b8-839b-7eacc6891c8f",
+      "name": "Data Visualization",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "1f128cb1-3055-49be-8ef7-bf2e5e2350d1",
+      "name": "Statistical Analysis",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "0e79a140-019a-4f32-ad75-c881074cb599",
+      "name": "Data cleaning",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "2e7a0525-a219-4f39-8b46-869872dd66c3",
+      "name": "Data Collation",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "57a6f5d5-d4ae-4920-a51b-aa68e7cf17cb",
+      "name": "Data Interpretation",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "55d33245-6b42-4439-9e7a-258ffb4c5c6e",
+      "name": "Large datasets",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "be3a2471-2376-49a1-a6aa-5f998a98b7b0",
+      "name": "Advanced Excel",
+      "level": "intermediate",
+      "category": "Tools",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "81596f2f-3a00-4855-a951-c99b326f4e34",
+      "name": "Market Research",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "cc3c03eb-b56d-43f2-8d63-123f9b84af00",
+      "name": "Process Improvement",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "e09b621c-1dfa-477b-95af-342a270e7e0e",
+      "name": "Operational Processes",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "b028b192-23f0-4493-ae55-d6f32ea1b7f2",
+      "name": "Analytical Thinking",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "dd433530-2bc6-4b27-acfd-5bfd65df2cd1",
+      "name": "Problem Solving",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "ede2118a-81e0-4495-a362-3d5e32478d39",
+      "name": "Attention to Detail",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "1f11ea6f-3fc9-49a9-b8c4-eb92a7c4c31a",
+      "name": "Time Management",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "da63ee2f-a9d3-4a4c-bb6b-38cbffa85708",
+      "name": "Team Collaboration",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    },
+    {
+      "id": "a8b514c6-07b8-4a15-b832-fb1468270dde",
+      "name": "Quality management",
+      "level": "intermediate",
+      "category": "Soft Skills",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "1a682d38-461c-40c6-8564-23f4a4365023",
+      "role": "DATA ANALYST",
+      "company": "Ace-Digital",
+      "end_date": "Nov 2025",
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "is_current": false,
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "start_date": "Jan 2024",
+      "description": "Analyzed large datasets to uncover trends, patterns, and correlations, providing critical insights for strategic decision-making.\nTranslated raw data into actionable insights using statistical techniques, facilitating data-driven business strategies.\nUtilized statistical software packages such as SPSS and Excel to analyze results, enhancing data interpretation and reporting efficiency."
+    }
+  ],
+  "education": [
+    {
+      "id": "43aac545-dce7-45b5-9db5-910244afb962",
+      "gpa": null,
+      "field": "Statistics",
+      "degree": "Bachelor of Science",
+      "end_year": 2025,
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "start_year": 2026,
+      "description": null,
+      "institution": "PSG College of Arts & Science"
+    },
+    {
+      "id": "e736b3b5-073c-4f44-8f73-40299f941838",
+      "gpa": null,
+      "field": "Gendral",
+      "degree": "MBA",
+      "end_year": null,
+      "created_at": "2026-05-15T00:59:10.804877+00:00",
+      "profile_id": "d6b027d4-4f14-43ef-8aee-38b9534176d8",
+      "start_year": 2026,
+      "description": null,
+      "institution": "SIIMS Business School"
+    }
+  ],
+  "theme": {
+    "portfolio_theme": "creative",
+    "portfolio_font": "bold",
+    "identity_card_palette": "forest",
+    "identity_card_template": "compact"
+  }
+}
